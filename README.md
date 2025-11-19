@@ -160,30 +160,6 @@ AirbnbPriceBestModel – Version 1
 ![Registry](screenshots/Model_Registry.png)
 
 
-## 📁 Project Structure
-airbnb-price-prediction-mlflow/
-│
-├── notebooks/
-│   ├── 01_data_ingestion.ipynb
-│   ├── 02_preprocessing.ipynb
-│   ├── 03_modeling.ipynb
-│   └── 04_mlflow_tracking.ipynb
-│
-├── src/
-│   ├── preprocessing_utils.py
-│   ├── model_utils.py
-│   └── __init__.py
-│
-├── screenshots/
-│   ├── SC2.png
-│   ├── xgboost.png
-│   └── Model_Registry.png
-│
-├── processed_clean.csv
-├── requirements.txt
-├── .gitignore
-└── README.md
-
 ## ▶️  How to Run This Project
 
 Create a virtual environment
