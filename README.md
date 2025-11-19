@@ -161,7 +161,7 @@ AirbnbPriceBestModel – Version 1
 
 
 ## 📁 Project Structure
-
+'''
 airbnb-price-prediction-mlflow/
 │
 ├── notebooks/
@@ -184,7 +184,9 @@ airbnb-price-prediction-mlflow/
 ├── requirements.txt
 ├── .gitignore
 └── README.md
+'''
 
+----
 
 ## ▶️  How to Run This Project
 
